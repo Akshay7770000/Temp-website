@@ -531,6 +531,7 @@ footer h5 a {
         justify-content: center;
         align-items: center;
         width: 19rem;
+        gap: 16px;
     }
 
     #search {
@@ -697,3 +698,4 @@ footer h5 a {
 }
 
 /* -------------------------------------------------------------------------------------------------------- */
+
